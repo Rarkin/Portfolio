@@ -71,25 +71,26 @@ const handleClick = () => setNav(!nav)
             <div className="hidden sm:flex flex fixed  flex-col top-[35%] left-0">
                 <ul>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#0077b5]">
-                        <a className="flex justify-between items-center w-full text-gray-300"
+                        <a className="flex justify-between items-center w-full text-xs text-gray-300"
                         href="https://www.linkedin.com/in/karl-graves-45940b1b8/" target="_blank">
-                            LinkedIn <FaLinkedin size={30}/>
+                            Linked
+                            In <FaLinkedin size={30}/>
                         </a>
                     </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#377b06]">
-                        <a className="flex justify-between items-center w-full text-gray-300"
+                        <a className="flex justify-between items-center w-full text-sm text-gray-300"
                         href="https://github.com/Rarkin" target="_blank">
                             Github <FaGithub size={30}/>
                         </a>
                     </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333]">
-                        <a className="flex justify-between items-center w-full text-gray-300"
+                        <a className="flex justify-between items-center w-full text-sm text-gray-300"
                         href="mailto:karlgraves28@gmail.com" target="_blank">
                             Email <HiOutlineMail size={30}/>
                         </a>
                     </li>
                     <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#ED2224]">
-                        <a className="flex justify-between items-center w-full text-gray-300"
+                        <a className="flex justify-between items-center w-full text-sm text-gray-300"
                         href="/" target="_blank">
                             CV <FaRegFilePdf size={30}/>
                         </a>
