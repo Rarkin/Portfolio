@@ -11,7 +11,9 @@ const handleClick = () => setNav(!nav)
     return(
         <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-r from-[#0f2027] via-[#203a43] to-[#2c5364] ... text-gray-300">
             <div>
+            <Link to="hero" smooth={true} duration={500}>
                 <img src={Logo} alt='Logo image' style={{width: '100px'}} />
+            </Link>
             </div>
             {/* menu */}
             <ul className="hidden md:flex">
