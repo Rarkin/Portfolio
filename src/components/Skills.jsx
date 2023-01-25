@@ -8,7 +8,7 @@ import Node from '../assests/node.png'
 import Github from '../assests/github.png'
 import CSharp from '../assests/csharp.png'
 import Unity from '../assests/unity-logo.png'
-import Unreal from '../assests/Unreal.png'
+import Unreal from '../assests/unreal.png'
 
 function Skills() {
   return (
@@ -50,7 +50,7 @@ function Skills() {
                     <p className='my-4'>C#</p>
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                    <img className='w-40 mx-auto my-8' src={Unity} alt='Unity Icon' />
+                    <img className='w-40 mx-auto my-8 py-3' src={Unity} alt='Unity Icon' />
                 </div>
                 <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                     <img className='w-20 mx-auto my-8' src={Unreal} alt='Unreal Icon' />
