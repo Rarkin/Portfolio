@@ -22,7 +22,7 @@ function Projects() {
                 <div style={{backgroundImage: `url(${TempProjectImg})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>                    
                     {/* hover effects */}                    
                     <div className='opacity-0 group-hover:opacity-100'>
-                        <span className='text-2xl font-bold text-white tracking-wider'>
+                        <span className='font-bold text-white tracking-wider'>
                             Project Name Here
                         </span>
                         <div className='pt-8 text-center'>
@@ -44,7 +44,7 @@ function Projects() {
                 <div style={{backgroundImage: `url(${TempProjectImg})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>                    
                     {/* hover effects */}                    
                     <div className='opacity-0 group-hover:opacity-80'>
-                        <span className='text-2xl font-bold text-white tracking-wider'>
+                        <span className='font-bold text-white tracking-wider'>
                             Project Name Here
                         </span>
                         <div className='pt-8 text-center'>
@@ -62,7 +62,7 @@ function Projects() {
                 <div style={{backgroundImage: `url(${TempProjectImg})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>                    
                     {/* hover effects */}                    
                     <div className='opacity-0 group-hover:opacity-80'>
-                        <span className='text-2xl font-bold text-white tracking-wider'>
+                        <span className='font-bold text-white tracking-wider'>
                             Project Name Here
                         </span>
                         <div className='pt-8 text-center'>
@@ -80,7 +80,7 @@ function Projects() {
                 <div style={{backgroundImage: `url(${TempProjectImg})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>                    
                     {/* hover effects */}                    
                     <div className='opacity-0 group-hover:opacity-80'>
-                        <span className='text-2xl font-bold text-white tracking-wider'>
+                        <span className='font-bold text-white tracking-wider'>
                             Project Name Here
                         </span>
                         <div className='pt-8 text-center'>
@@ -98,7 +98,7 @@ function Projects() {
                 <div style={{backgroundImage: `url(${TempProjectImg})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>                    
                     {/* hover effects */}                    
                     <div className='opacity-0 group-hover:opacity-80'>
-                        <span className='text-2xl font-bold text-white tracking-wider'>
+                        <span className='font-bold text-white tracking-wider'>
                             Project Name Here
                         </span>
                         <div className='pt-8 text-center'>
@@ -116,7 +116,7 @@ function Projects() {
                 <div style={{backgroundImage: `url(${TempProjectImg})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>                    
                     {/* hover effects */}                    
                     <div className='opacity-0 group-hover:opacity-80'>
-                        <span className='text-2xl font-bold text-white tracking-wider'>
+                        <span className='font-bold text-white tracking-wider'>
                             Project Name Here
                         </span>
                         <div className='pt-8 text-center'>
