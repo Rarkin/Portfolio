@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9025c1c6.css",
+    "main.js": "/portfolio/static/js/main.e3c81b72.js",
+    "static/media/csharp.png": "/portfolio/static/media/csharp.e095694584811ade286e.png",
+    "static/media/TempProjectImg.png": "/portfolio/static/media/TempProjectImg.8dced1fbb009426ceae2.png",
+    "static/media/PressStart2P-Regular.ttf": "/portfolio/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/logo-no-background.png": "/portfolio/static/media/logo-no-background.bd5c8c218445c8ac6ea1.png",
+    "static/media/unity-logo.png": "/portfolio/static/media/unity-logo.2bf3b6bb94a2073f786d.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.9025c1c6.css.map": "/portfolio/static/css/main.9025c1c6.css.map",
+    "main.e3c81b72.js.map": "/portfolio/static/js/main.e3c81b72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9025c1c6.css",
+    "static/js/main.e3c81b72.js"
+  ]
+}
