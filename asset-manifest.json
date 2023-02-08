@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9025c1c6.css",
-    "main.js": "/portfolio/static/js/main.e3c81b72.js",
+    "main.js": "/portfolio/static/js/main.d8a1c9f1.js",
     "static/media/csharp.png": "/portfolio/static/media/csharp.e095694584811ade286e.png",
+    "static/media/just-lift-high-resolution-logo-color-on-transparent-background.png": "/portfolio/static/media/just-lift-high-resolution-logo-color-on-transparent-background.a367347ac791309eb3f0.png",
     "static/media/TempProjectImg.png": "/portfolio/static/media/TempProjectImg.8dced1fbb009426ceae2.png",
     "static/media/PressStart2P-Regular.ttf": "/portfolio/static/media/PressStart2P-Regular.21503c6a5385ab41dde9.ttf",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -15,10 +16,10 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.9025c1c6.css.map": "/portfolio/static/css/main.9025c1c6.css.map",
-    "main.e3c81b72.js.map": "/portfolio/static/js/main.e3c81b72.js.map"
+    "main.d8a1c9f1.js.map": "/portfolio/static/js/main.d8a1c9f1.js.map"
   },
   "entrypoints": [
     "static/css/main.9025c1c6.css",
-    "static/js/main.e3c81b72.js"
+    "static/js/main.d8a1c9f1.js"
   ]
 }
